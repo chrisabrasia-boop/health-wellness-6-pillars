@@ -1,0 +1,73 @@
+index.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Doctor-Led Health & Wellness</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header / Navigation -->
+  <header>
+    <h1>Dr. [Your Name] | 6 Pillars of Wellness</h1>
+    <nav>
+      <a href="#pillars">The 6 Pillars</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h2>Evidence-Based Lifestyle Medicine for a Healthy Life</h2>
+    <p>Discover how daily choices in 6 core areas can transform your health.</p>
+  </section>
+
+  <!-- 6 Pillars Section -->
+  <section id="pillars" class="pillars-container">
+    <h2>The 6 Pillars of Health & Wellness</h2>
+    <div class="grid">
+      
+      <div class="card">
+        <h3>1. Nutrition</h3>
+        <p>Fuel your body with whole, plant-predominant foods rich in nutrients.</p>
+      </div>
+
+      <div class="card">
+        <h3>2. Exercise</h3>
+        <p>Engage in regular physical activity tailored to your body's needs.</p>
+      </div>
+
+      <div class="card">
+        <h3>3. Restorative Sleep</h3>
+        <p>Prioritize 7-9 hours of restful sleep for cellular recovery and mental clarity.</p>
+      </div>
+
+      <div class="card">
+        <h3>4. Stress Management</h3>
+        <p>Incorporate mindfulness, meditation, and breathwork to reduce stress.</p>
+      </div>
+
+      <div class="card">
+        <h3>5. Social Connection</h3>
+        <p>Build supportive, positive relationships that nurture emotional health.</p>
+      </div>
+
+      <div class="card">
+        <h3>6. Avoiding Risky Substances</h3>
+        <p>Eliminate harmful substances like tobacco and moderate alcohol consumption.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2026 Dr. [Your Name]. All rights reserved. | Medical Disclaimer: This site provides general information and is not formal medical advice.</p>
+  </footer>
+
+</body>
+</html>
